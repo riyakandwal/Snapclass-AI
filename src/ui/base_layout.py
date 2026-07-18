@@ -12,7 +12,7 @@ def style_background_home():
 
                 .stApp div[data-testid="stColumn"]{
                    background-color: #e0e3ff !important;
-                   color:	#3b3b3b !important;
+                   color:	white !important;
                    padding:2.5rem !important;
                    border-radius:5rem !important;
                 }
@@ -59,8 +59,9 @@ def style_base_layout():
                 h2{
                     font-family: 'Climate Crisis', sans-serif !important;
                     font-size: 2rem !important;
-                    line-height:1.1 !important;
+                    line-height:1 !important;
                     margin-bottom:0rem !important;
+                    white-space:  !important;
                    
                 }
 
@@ -70,7 +71,7 @@ def style_base_layout():
                 }
                 button{
                     border-radius:1.5rem !important;
-                    background: #5865f2 !important;
+                    background-color: #5865f2 !important;
                     color: white !important;
                     padding:10px 20px !important;
                     border:none !important;
@@ -79,7 +80,7 @@ def style_base_layout():
 
                 button[kind="secondary"]{
                     border-radius:1.5rem !important;
-                    background: #eb459e !important;
+                    background-color: #eb459e !important;
                     color: white !important;
                     padding:10px 20px !important;
                     border:none !important;
@@ -88,8 +89,8 @@ def style_base_layout():
 
                 button[kind="tertiary"]{
                     border-radius:1.5rem !important;
-                    background: black !important;
-                    color: black !important;
+                    background-color: black !important;
+                    color: white !important;
                     padding:10px 20px !important;
                     border:none !important;
                     transition: transform 0.25s ease-in-out !important;
@@ -99,6 +100,9 @@ def style_base_layout():
                 button:hover{
                     transform: scale(1.05) !important;   
                 }
+                
+
+               
 
                 </style>
                 """,unsafe_allow_html=True)
