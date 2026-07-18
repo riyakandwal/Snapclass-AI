@@ -1,19 +1,20 @@
-streamlit #web app framework
-#utilities
-numpy
-pandas
-scikit-learn # face-recognition
+streamlit
+
+numpy==2.1.3
+pandas==2.2.3
+scikit-learn==1.6.1
+
 dlib-bin
 
-git+https://github.com/ageitgey/face_recognition_models
-setuptools
+git+https://github.com/ageitgey/face_recognition_models.git
+
+setuptools>=75
 
 supabase
 bcrypt
 
-segno #qr code generator
-pillow #image preprocessing
+segno
+pillow
 
-
-librosa #file editing and uploading specifically audio files
-resemblyzer #convert those files into embedding
+librosa==0.10.2.post1
+resemblyzer==0.1.4
