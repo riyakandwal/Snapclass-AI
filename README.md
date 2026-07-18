@@ -154,39 +154,78 @@ Student Views Attendance
 
 ---
 
-# 📷 Screenshots
-
-## 🏠 Landing Page
-
-<p align="center">
-  <img src="static/img/snap-landing.png" width="900">
-</p>
-
----
-
 # 📸 Screenshots
 
 ## 🏠 Landing Page
 
-<p align="center">
-  <img src="src/assets/snap-landing.png" alt="Landing Page" width="900">
-</p>
+![](src/assets/snap-landing.png)
+
+---
+
+## 👨‍🎓 Student Login
+
+![](src/assets/snap-student-flow1-login.png)
 
 ---
 
 ## 👨‍🎓 Student Dashboard
 
-<p align="center">
-  <img src="src/assets/snap-student-flow3-subject-enroll.png" alt="Student Dashboard" width="900">
-</p>
+![](src/assets/snap-student-flow3-subject-enroll.png)
 
 ---
 
-## 👨‍🏫 Teacher Dashboard
+## 👨‍🏫 Teacher Login
 
-<p align="center">
-  <img src="src/assets/snap-teacher-flow2-takeattendance.png" alt="Teacher Dashboard" width="900">
-</p>
+![](src/assets/snap-teacher-flow1-login.png)
+
+---
+
+## 👨‍🏫 AI Attendance Dashboard
+
+![](src/assets/snap-teacher-flow2-takeattendance.png)
+
+---
+
+## 📚 Manage Subjects
+
+![](src/assets/snap-teacher-flow3-managesubjects.png)
+
+---
+
+## ➕ Create Subject
+
+![](src/assets/snap-teacher-flow4-create-new-subject.png)
+
+---
+
+## 📱 QR Enrollment
+
+![](src/assets/snap-teacher-flow5-join-qr.png)
+
+---
+
+## 📊 Attendance Records
+
+![](src/assets/snap-teacher-flow6-attendance-record.png)
+
+---
+
+## 🎙️ Voice Attendance
+
+![](src/assets/snap-teacher-flow7-voice-attendance.png)
+
+---
+
+## 📷 Upload Photos
+
+![](src/assets/snap-teacher-flow8-uploadphotos.png)
+
+---
+
+## 🤖 Face Recognition Result
+
+![](src/assets/snap-teacher-flow9-dashboard.png)
+
 ---
 
 
