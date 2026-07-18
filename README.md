@@ -164,83 +164,30 @@ Student Views Attendance
 
 ---
 
-# 👨‍🎓 Student Portal
+# 📸 Application Preview
 
-### Login
+| Landing Page | Student Dashboard |
+|---------------|------------------|
+| <img src="src/assets/snap-landing.png" width="100%"> | <img src="src/assets/snap-student-flow3-subject-enroll.png" width="100%"> |
 
-<p align="center">
-  <img src="static/img/snap-student-flow1-login.png" width="900">
-</p>
+| Teacher Dashboard | Manage Subjects |
+|------------------|-----------------|
+| <img src="src/assets/snap-teacher-flow2-takeattendance.png" width="100%"> | <img src="src/assets/snap-teacher-flow3-managesubjects.png" width="100%"> |
 
-### Enroll Subject
+| Create Subject | QR Enrollment |
+|---------------|---------------|
+| <img src="src/assets/snap-teacher-flow4-create-new-subject.png" width="100%"> | <img src="src/assets/snap-teacher-flow5-join-qr.png" width="100%"> |
 
-<p align="center">
-  <img src="static/img/snap-student-flow2-enroll.png" width="900">
-</p>
+| Voice Attendance | Attendance Records |
+|-----------------|--------------------|
+| <img src="src/assets/snap-teacher-flow7-voice-attendance.png" width="100%"> | <img src="src/assets/snap-teacher-flow6-attendance-record.png" width="100%"> |
 
-### Student Dashboard
-
-<p align="center">
-  <img src="static/img/snap-student-flow3-subject-enroll.png" width="900">
-</p>
+| Upload Photos | Face Recognition |
+|---------------|------------------|
+| <img src="src/assets/snap-teacher-flow8-uploadphotos.png" width="100%"> | <img src="src/assets/snap-teacher-flow9-dashboard.png" width="100%"> |
 
 ---
 
-# 👨‍🏫 Teacher Portal
-
-### Login
-
-<p align="center">
-  <img src="static/img/snap-teacher-flow1-login.png" width="900">
-</p>
-
-### Take AI Attendance
-
-<p align="center">
-  <img src="static/img/snap-teacher-flow2-takeattendance.png" width="900">
-</p>
-
-### Manage Subjects
-
-<p align="center">
-  <img src="static/img/snap-teacher-flow3-managesubjects.png" width="900">
-</p>
-
-### Create Subject
-
-<p align="center">
-  <img src="static/img/snap-teacher-flow4-create-new-subject.png" width="900">
-</p>
-
-### Share QR Code
-
-<p align="center">
-  <img src="static/img/snap-teacher-flow5-join-qr.png" width="900">
-</p>
-
-### Attendance Records
-
-<p align="center">
-  <img src="static/img/snap-teacher-flow6-attendance-record.png" width="900">
-</p>
-
-### Voice Attendance
-
-<p align="center">
-  <img src="static/img/snap-teacher-flow7-voice-attendance.png" width="900">
-</p>
-
-### Upload Classroom Photos
-
-<p align="center">
-  <img src="static/img/snap-teacher-flow8-uploadphotos.png" width="900">
-</p>
-
-### Teacher Dashboard
-
-<p align="center">
-  <img src="static/img/snap-teacher-flow9-dashboard.png" width="900">
-</p>
 
 # 📂 Project Structure
 
